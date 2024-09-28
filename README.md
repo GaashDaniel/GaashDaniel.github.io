@@ -1,2 +1,2 @@
 # GaashDaniel.github.io
-Protfolio
+Portfolio
